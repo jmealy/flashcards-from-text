@@ -11,4 +11,7 @@ Change the contents of `words.txt` to any Spanish text you wand to generate flas
 
 Change the value  of `FREQUENCY` in the script to suit your level. A higher value of `FREQUENCY` will include easier words.
 
+## Results
 Words will be saved as CSV along with their translations in `target_words.csv`
+You can then import this to a flashcard app like anki.
+
