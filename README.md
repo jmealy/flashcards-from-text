@@ -13,5 +13,4 @@ Change the value  of `FREQUENCY` in the script to suit your level. A higher valu
 
 ## Results
 Words will be saved as CSV along with their translations in `target_words.csv`
-You can then import this to a flashcard app like anki.
-
+You can then import this to a flashcard app like [anki](https://apps.ankiweb.net/)
