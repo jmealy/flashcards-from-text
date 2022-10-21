@@ -1,5 +1,5 @@
 # flashcards-from-text
-Given a text in Spanish, generate flashcards from the most difficult words. This can be used for memorising difficult words in the episode of a TV show before watching it, or similarly for the next chapter of a book.
+Given a text in Spanish, generate flashcards from the most difficult words. This can be used for memorising difficult words in an article before reading it. It can also be used for movies (given the subtitles in the original language) or for the next chapter of a book.
 
 ## Install Dependencies
 `pip install -r requirements.txt`
